@@ -1,6 +1,8 @@
-# salem_group_task
+# Fake Store 
 
-A new Flutter project.
+A simple flutter project with 2 pages.
+A registration page with validation on name,email and password.
+Dashboard displaying products from fakestoreapi.com
 
 ## Getting Started
 
